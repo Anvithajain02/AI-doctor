@@ -1,4 +1,6 @@
 AI Doctor  is an advanced voice and vision-powered healthcare assistant that uses Large Language Models (LLMs) to answer medical queries,process images, and interact via speech. This projectcombines AI-powered text and image understanding to simulate an intelligent diagnostic assistant
+
+
 🚀 Features:
 💬 Voice-based medical question answering.
 🖼️ Image analysis using vision models.
